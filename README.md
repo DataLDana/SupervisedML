@@ -7,7 +7,9 @@ Algorithms:
 
 ![grafik](https://github.com/user-attachments/assets/7afabdee-93d3-4579-9c5f-bd19212df56b)
 
-Some, but not extensive, hyperparameter tuning is made, and an update is in the pipeline :)
+Some, but not extensive, hyperparameter tuning is made
 
 See also my LinkedIn article:
 https://www.linkedin.com/pulse/lost-random-forest-navigating-complexities-machine-learning-l%C3%BCbke-zwmbe/?trackingId=xF8hXCtXrslJJFiHqXZjqg%3D%3D
+
+Last update: 24.01.2025
